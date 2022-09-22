@@ -1,1 +1,26 @@
-h1 {color: darkgray;}
+body {
+    background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {color: purple;
+    text-align: center;
+    text-decoration: underline;
+    padding-bottom: 40px;}
+
+h2 {color: blue;
+    text-decoration: underline;
+    padding: 5px;}
+
+ul.circle-list{
+    list-style-type: circle;
+    list-style-position: inside;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.center{
+    text-align: center;
+}
